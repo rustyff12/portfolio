@@ -1,2 +1,2 @@
 # portfolio
- Portfoli project for Scrimba
+ Portfolio project for Scrimba
